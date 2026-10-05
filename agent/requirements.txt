@@ -1,0 +1,6 @@
+# Works on both mcp 1.x and 2.x.
+# (mcp 2.0 renamed FastMCP to MCPServer and inputSchema to input_schema;
+#  server.py and agent.py accept either.)
+mcp>=1.2.0
+anthropic>=0.40.0
+pandas>=2.0.0

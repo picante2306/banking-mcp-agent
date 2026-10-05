@@ -1,0 +1,9 @@
+product_id,product_name,product_category,annual_fee
+1,Savings Account,Deposit,0
+2,Current Account,Deposit,500
+3,Home Loan,Loan,0
+4,Personal Loan,Loan,0
+5,Credit Card,Card,1500
+6,Fixed Deposit,Deposit,0
+7,Life Insurance,Insurance,0
+8,Mutual Fund,Investment,0
